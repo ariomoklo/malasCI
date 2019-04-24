@@ -1,11 +1,44 @@
-# Malas CMS
+![malasCI](https://raw.github.com/ariomoklo/malasCI/master/assets/malas-banner.png)
 
-malas CMS adalah sebuah headless cms yang saya buat karena headless cms yang lain terlalu riweh untuk di pelajari/dipasang/digunakan. apa sih headless CMS ? di google saja ya, saya malas menjelaskannya :)
+malasCI adalah sebuah paket library yang saya buat karena pedihnya lingkungan pekerjaan sebagai web developer akibat dari atasan atasan yang selalu menghardik kerja cepat 😢. Jadi saya berinisiatif untuk membuat framework CI menjadi lebih powerfull. Dan sekarang saya menjadi lebih sengsara akibat semakin cepat pekerjaan saya semakin banyak dikasih proyek. 😅.
 
-# Dependencies
+malasCI is a packed library that I made to make my life easier as web developer. It's based on CodeIgniter that we ❤️ so much. For full detailed information about the Library I add please refer to Library list section bellow. Happy Code 😄.
 
-Malas CMS menggunakan Code Igniter 3 sebagai base projectnya. Plugins dan Library yang saya gunakan sebagai berikut:
+# Library List
 
-- Ion_Auth 2 ( Auth Library )
-- Mailio ( PHPMail Wrapper Buatan saya sendiri )
-- RedBean ORM ( Apa itu ORM ? Google ya :) )
+- [RedBean PHP ORM](https://redbeanphp.com)
+- [Respect/Validation](https://github.com/Respect/Validation)
+- [PHPMailer](https://github.com/PHPMailer/PHPMailer)
+- [PHPSpreadsheet](https://github.com/PHPOffice/phpspreadsheet/)
+- [Twig](https://twig.symfony.com)
+
+# Installation
+
+Untuk mulai membuat project dengan malasCI, silakan clone repositori ini atau fork untuk melakukan penyesuain sesuka kamu. malasCI menggunakan composer untuk mengatur dependensi yang dibutuhkan. Jadi jangan lupa untuk melakukan install ya 😏.
+
+To start code with malasCI, clone or fork this repository. malasCI use composer so don't forget to install composer and dependency 😏.
+
+```sh
+# untuk melakukan cloning github gunakan command dibawah ini:
+# clone this repo first to start code your projects
+git clone https://github.com/ariomoklo/malasCI.git
+
+# kemudian mulai install composer dependensi
+# then install the composer requirements
+cd malasCI/application
+composer install
+```
+
+Jangan lupa untuk mengubah konfigurasi autoload composer pada CodeIgniter di application/config/config.php.
+
+Do not forget to change composer autoloading in CodeIgniter at application/config/config.php.
+
+```php
+/*
+|--------------------------------------------------------------------------
+| Composer auto-loading
+|--------------------------------------------------------------------------
+| ...
+*/
+$config['composer_autoload'] = TRUE;
+```

@@ -12,6 +12,7 @@ application/language
 application/logs
 application/migrations
 application/models/*
+application/vendor
 application/views/*
 application/.htaccess
 application/index.html
