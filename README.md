@@ -10,6 +10,7 @@ malasCI is a packed library that I made to make my life easier as web developer.
 - [Respect/Validation](https://github.com/Respect/Validation)
 - [PHPMailer](https://github.com/PHPMailer/PHPMailer)
 - [PHPSpreadsheet](https://github.com/PHPOffice/phpspreadsheet/)
+- [vlucas/phpdotenv](https://github.com/vlucas/phpdotenv)
 - [Twig](https://twig.symfony.com)
 
 # Installation

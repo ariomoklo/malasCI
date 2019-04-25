@@ -1,6 +1,7 @@
+system
 index.php
 .editorconfig
-system
+.env
 
 application/cache
 application/config/*
