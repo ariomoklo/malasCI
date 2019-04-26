@@ -1,4 +1,4 @@
-![malasCI](https://raw.github.com/ariomoklo/malasCI/master/assets/malas-banner.png)
+![malasCI](https://raw.github.com/maalas/malasCI/master/logo/malasCI/banner.png)
 
 malasCI adalah sebuah paket library yang saya buat karena pedihnya lingkungan pekerjaan sebagai web developer akibat dari atasan atasan yang selalu menghardik kerja cepat 😢. Jadi saya berinisiatif untuk membuat framework CI menjadi lebih powerfull. Dan sekarang saya menjadi lebih sengsara akibat semakin cepat pekerjaan saya semakin banyak dikasih proyek. 😅.
 
