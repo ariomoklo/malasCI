@@ -19,3 +19,6 @@ application/.htaccess
 application/index.html
 
 !application/config/malas.php
+!application/config/config.example.php
+!application/config/hooks.example.php
+!application/config/routes.example.php
