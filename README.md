@@ -1,5 +1,13 @@
 ![malasCI](https://raw.github.com/maalas/media/master/logo/malasCI/banner.png)
 
+---
+
+> ⚠ ALERT!. PLEASE NOTE THAT THIS PROJECTS IS ON HALT AND NOT READY TO USE ⚠
+
+> I plan to move this project to new repository and group it together with my other PHP Library that I created through my journey as a Fullstack Web Developer. I plan to move this project here 👉 [Maalas](https://github.com/maalas).
+
+---
+
 malasCI adalah sebuah paket library yang saya buat karena pedihnya lingkungan pekerjaan sebagai web developer akibat dari atasan atasan yang selalu menghardik kerja cepat 😢. Jadi saya berinisiatif untuk membuat framework CI menjadi lebih powerfull. Dan sekarang saya menjadi lebih sengsara akibat semakin cepat pekerjaan saya semakin banyak dikasih proyek. 😅.
 
 malasCI is a packed library that I made to make my life easier as web developer. It's based on CodeIgniter that we ❤️ so much. For full detailed information about the Library I add please refer to Library list section bellow. Happy Code 😄.
